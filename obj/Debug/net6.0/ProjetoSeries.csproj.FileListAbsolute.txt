@@ -1,0 +1,15 @@
+C:\Users\taise\projetos\dio\ProjetoSeries\bin\Debug\net6.0\ProjetoSeries.exe
+C:\Users\taise\projetos\dio\ProjetoSeries\bin\Debug\net6.0\ProjetoSeries.deps.json
+C:\Users\taise\projetos\dio\ProjetoSeries\bin\Debug\net6.0\ProjetoSeries.runtimeconfig.json
+C:\Users\taise\projetos\dio\ProjetoSeries\bin\Debug\net6.0\ProjetoSeries.dll
+C:\Users\taise\projetos\dio\ProjetoSeries\bin\Debug\net6.0\ProjetoSeries.pdb
+C:\Users\taise\projetos\dio\ProjetoSeries\obj\Debug\net6.0\ProjetoSeries.csproj.AssemblyReference.cache
+C:\Users\taise\projetos\dio\ProjetoSeries\obj\Debug\net6.0\ProjetoSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taise\projetos\dio\ProjetoSeries\obj\Debug\net6.0\ProjetoSeries.AssemblyInfoInputs.cache
+C:\Users\taise\projetos\dio\ProjetoSeries\obj\Debug\net6.0\ProjetoSeries.AssemblyInfo.cs
+C:\Users\taise\projetos\dio\ProjetoSeries\obj\Debug\net6.0\ProjetoSeries.csproj.CoreCompileInputs.cache
+C:\Users\taise\projetos\dio\ProjetoSeries\obj\Debug\net6.0\ProjetoSeries.dll
+C:\Users\taise\projetos\dio\ProjetoSeries\obj\Debug\net6.0\refint\ProjetoSeries.dll
+C:\Users\taise\projetos\dio\ProjetoSeries\obj\Debug\net6.0\ProjetoSeries.pdb
+C:\Users\taise\projetos\dio\ProjetoSeries\obj\Debug\net6.0\ProjetoSeries.genruntimeconfig.cache
+C:\Users\taise\projetos\dio\ProjetoSeries\obj\Debug\net6.0\ref\ProjetoSeries.dll
